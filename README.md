@@ -1,6 +1,6 @@
 # Do-Left-handed-People-Really-Die-Young-
 
-Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.
+
 
 ![image](https://user-images.githubusercontent.com/90421922/206579858-6009214f-17b1-4e21-81ed-561561f5682f.png)
 
@@ -20,4 +20,4 @@ In this project, you will explore this phenomenon using age distribution data to
 7. Putting it all together: dying while left-handed (ii)
 8. Plotting the distributions of conditional probabilities
 9. Moment of truth: age of left and right-handers at death
-10. Final comments
+
